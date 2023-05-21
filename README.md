@@ -9,7 +9,4 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
 
 ##
 
-<div>
- src="https://github.com/ajailson48/Trabalhoipiranga/assets/76658794/02d72d36-cda5-4ab0-a524-9838bc64c4bc" target="_blank"></a>
 
- </div>
