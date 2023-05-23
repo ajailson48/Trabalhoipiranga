@@ -8,7 +8,7 @@ O projeto constitui na construção de um dashboard para demostrar sobre uma pes
 A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, power BI e Excel.
 
 ##
- ### Segue o link da pesquisa a baixo:
+ ## Segue os links do Dashbord e Pesquisa Realizada do Projeto:
 
 <table>
     <tbody>
