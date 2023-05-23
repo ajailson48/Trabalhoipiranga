@@ -10,11 +10,6 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
 ##
  ### Segue o link da pesquisa a baixo:
 
- 
-https://docs.google.com/spreadsheets/d/16yZ5vQFBCAcVbt08Y-hHfvoMORMf_YGJ/edit#gid=1129253337
-
-https://github.com/ajailson48/Trabalhoipiranga/raw/main/Meu%20Primeiro%20Power%20BI%20(Desafio%20Tech%20Ipiranga).pbix
-
 <table>
     <tbody>
     <tr>
