@@ -20,7 +20,7 @@ https://github.com/ajailson48/Trabalhoipiranga/raw/main/Meu%20Primeiro%20Power%2
     <tr>
       <td>
           <a href="https://app.powerbi.com/reportEmbed?reportId=9ff859cf-47d4-4d43-b640-db451d2056e5&autoAuth=true&ctid=da49a844-e2e3-40af-86a6-c3819d704f49">
-          		<img width="600" src="https://tecdn.b-cdn.net/img/components-big.jpg">
+          		<img width="600" src="https://procenge.com.br/wp-content/uploads/2017/09/Eficiencia-Operacional-768x389.jpg">
           </a>
       </td>
       <td>    
