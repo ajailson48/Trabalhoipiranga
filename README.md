@@ -22,19 +22,6 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
         <a>
         </a>
      </td>
-       
-     
-      <td>    
-        <ul>
-         <li>500+ UI components</li>
-         <li>117+ design blocks</li>         
-         <li>Dark mode support</li>      
-         <li>Easy theming & customization</li>
-         <li>Simple, 1 minute install</li>    
-         <li>Free for personal & commercial use</li>
-        </ul>
-        <p><b><a href="https://tailwind-elements.com/docs/standard/getting-started/quick-start/">Get started with Tailwind Elements now!</a></b></p>
-      </td>
     </tr>
    </tbody>
   </table>
