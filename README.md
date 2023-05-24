@@ -26,3 +26,5 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
     </tr>
    </tbody>
   </table>
+
+# Nosso projeto foi desenvolvido atraves das metodologias ageis "Trello" e "Kanban" a baixo segue os desenvolvimentos.
