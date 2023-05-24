@@ -38,7 +38,7 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
           </a>
       </td>
       <td>
-        <a href="https://docs.google.com/spreadsheets/d/1ttOyetDZPLiVRa0qk0TmQAIfauTy6HL0FXqz8wjfXzs/edit#gid=205022829">
+        <a href="https://trello.com/b/5FldI0TK/kanban-quadro-modelo">
          <img width="300" src="https://www.novida.com.br/wp-content/uploads/2018/07/Kanban.png"
         </a>
      </td>
