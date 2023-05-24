@@ -28,3 +28,20 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
   </table>
 
 # Nosso projeto foi desenvolvido atraves das metodologias ageis "Trello" e "Kanban" a baixo segue os desenvolvimentos.
+
+<table>
+    <tbody>
+    <tr>
+      <td> 
+          <a href="https://trello.com/b/R7Q0l76N/tarefas-ipiranga">
+          		<img width="300" src="https://salesdorado.com/wp-content/uploads/2022/08/trello-logo-1.2.jpg">
+          </a>
+      </td>
+      <td>
+        <a href="https://docs.google.com/spreadsheets/d/1ttOyetDZPLiVRa0qk0TmQAIfauTy6HL0FXqz8wjfXzs/edit#gid=205022829">
+         <img width="300" src="https://cdn.awsli.com.br/600x1000/476/476840/produto/37067431/2102b0504b.jpg"
+        </a>
+     </td>
+    </tr>
+   </tbody>
+  </table>
