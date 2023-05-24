@@ -14,10 +14,16 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
     <tbody>
     <tr>
       <td>
-          <a href="https://app.powerbi.com/reportEmbed?reportId=9ff859cf-47d4-4d43-b640-db451d2056e5&autoAuth=true&ctid=da49a844-e2e3-40af-86a6-c3819d704f49">
+          <a href="https://app.powerbi.com/reportEmbed?reportId=9ff859cf-47d4-4d43-b640-db451d2056e5&autoAuth=true&ctid=da49a844-e2e3-40af-86a6-                  c3819d704f49">
           		<img width="300"  src="https://insider.com.br/wp-content/uploads/2015/06/levantamento-dados-1.png">
           </a>
       </td>
+      <td>
+        <a>
+        </a>
+     </td>
+       
+     
       <td>    
         <ul>
          <li>500+ UI components</li>
