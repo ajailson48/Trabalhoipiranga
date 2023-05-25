@@ -25,7 +25,7 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
      </td>
        <td>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLScIWQs3CkNPUS2FA4ZhNDdh-zYvzBuRwaf1bHAZ0OE2rBPGSw/viewform">
-         <img width="200" src="https://cdn.awsli.com.br/600x1000/476/476840/produto/37067431/2102b0504b.jpg"
+         <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2cGZX4rHOBB4n4k7D4eMsd7IbTtyhD50AyA&usqp=CAU"
         </a>
      </td>
     </tr>
