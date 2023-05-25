@@ -48,7 +48,7 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
   
   # Participantes que fazem parte do projeto
   
-  ## Pedro Martins "Scrum Marter" <a href="https://www.linkedin.com/in/ajailsoncastro/"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> Meu Linkedln !</a>
+  ## Pedro Martins "Scrum Marter" <a href="https://www.linkedin.com/in/ajailsoncastro/"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
   ## Jefferson Passos "Product Owner" <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> Meu Linkedln !
   ## Ajailson Castro "Time"
   ## Felippe Ilhames "Time"
