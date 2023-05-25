@@ -15,12 +15,17 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
     <tr>
       <td> 
           <a href="https://drive.google.com/file/d/17S65KQ7NQUZIUBpSdW9YqkFpm94mR-mK/view?usp=share_link">
-          		<img width="300" src="https://insider.com.br/wp-content/uploads/2015/06/levantamento-dados-1.png">
+          		<img width="200" src="https://insider.com.br/wp-content/uploads/2015/06/levantamento-dados-1.png">
           </a>
       </td>
       <td>
         <a href="https://docs.google.com/spreadsheets/d/1ttOyetDZPLiVRa0qk0TmQAIfauTy6HL0FXqz8wjfXzs/edit#gid=205022829">
-         <img width="300" src="https://cdn.awsli.com.br/600x1000/476/476840/produto/37067431/2102b0504b.jpg"
+         <img width="200" src="https://cdn.awsli.com.br/600x1000/476/476840/produto/37067431/2102b0504b.jpg"
+        </a>
+     </td>
+       <td>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScIWQs3CkNPUS2FA4ZhNDdh-zYvzBuRwaf1bHAZ0OE2rBPGSw/viewform">
+         <img width="200" src="https://cdn.awsli.com.br/600x1000/476/476840/produto/37067431/2102b0504b.jpg"
         </a>
      </td>
     </tr>
