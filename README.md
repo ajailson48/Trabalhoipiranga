@@ -50,8 +50,10 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
   
   ## Pedro Martins "Scrum Marter" <a href="https://www.linkedin.com/in/pedro-martins1995"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
   
-  ## Jefferson Passos "Product Owner" <a href="https://www.linkedin.com/in/ajailsoncastro/"><img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
+  ## Jefferson Passos "Product Owner" <a href="http://linkedin.com/in/jeffersondelimapassos"><img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
   
-  ## Ajailson Castro "Time"  <a href=""> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
-  ## Felippe Ilhames "Time"
+  ## Ajailson Castro "Time"  <a href="https://www.linkedin.com/in/ajailsoncastro/"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
+  
+  ## Felippe Ilhames "Time" <a href="https://www.linkedin.com/in/ajailsoncastro/"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
+  
   ## Camila "Time"
