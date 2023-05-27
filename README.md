@@ -61,4 +61,4 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
   
   ## Felippe Ilhames "Time" <a href="https://www.linkedin.com/in/felippe-dos-santos-ilhames-a22318211"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
   
-  ## Camila Botelho "Time"  <a href="https://www.linkedin.com/in/ajailsoncastro/"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
+  ## Camila Botelho "Time"  <a href="https://www.linkedin.com/in/camilaebotelho"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
