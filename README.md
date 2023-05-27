@@ -1,4 +1,4 @@
-<img witdth="300" src="https://drive.google.com/file/d/1OD_GxaEVirF2djJZyMLmT1n_LQoecRiq/view?usp=share_link">
+![Imagem](https://github.com/ajailson48/Trabalhoipiranga/assets/76658794/f2676c96-8ee4-4879-9226-4711f3d70cda)
 
 # Trabalho Ipiranga Inclusão parceria entre Gama Acadamy!
 
