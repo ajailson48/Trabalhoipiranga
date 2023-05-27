@@ -1,4 +1,4 @@
-![image](https://github.com/ajailson48/trabalho-ipiranga-inclusao/assets/76658794/d02e3316-a1e7-446f-80d1-9ae17f8e681d)
+<img witdth="300" src="https://drive.google.com/file/d/1OD_GxaEVirF2djJZyMLmT1n_LQoecRiq/view?usp=share_link">
 
 # Trabalho Ipiranga Inclusão parceria entre Gama Acadamy!
 
