@@ -53,12 +53,12 @@ A metodologia do trabalho adotada foi a ágil com o uso das ferramentas trello, 
   
   # Participantes que fazem parte do projeto
   
-  ## Pedro Martins "Scrum Marter" <a href="https://www.linkedin.com/in/pedro-martins1995"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
+  ## Pedro Martins "Scrum Master" <a href="https://www.linkedin.com/in/pedro-martins1995"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
   
-  ## Jefferson Passos "Product Owner" <a href="http://linkedin.com/in/jeffersondelimapassos"><img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
+  ## Jefferson Passos "Team" <a href="http://linkedin.com/in/jeffersondelimapassos"><img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
   
-  ## Ajailson Castro "Time"  <a href="https://www.linkedin.com/in/ajailsoncastro/"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
+  ## Ajailson Castro "Team"  <a href="https://www.linkedin.com/in/ajailsoncastro/"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
   
-  ## Felippe Ilhames "Time" <a href="https://www.linkedin.com/in/felippe-dos-santos-ilhames-a22318211"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
+  ## Felippe Ilhames "Team" <a href="https://www.linkedin.com/in/felippe-dos-santos-ilhames-a22318211"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
   
-  ## Camila Botelho "Time"  <a href="https://www.linkedin.com/in/camilaebotelho"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
+  ## Camila Botelho "Team"  <a href="https://www.linkedin.com/in/camilaebotelho"> <img width="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a> Meu Linkedln !
